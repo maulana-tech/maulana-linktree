@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "name": "Maulana",
+    "username": "@maulana_dev",
+    "bio": "Pengembang web dan mobile. Suka membuat UI yang menarik dan pengalaman pengguna yang baik.",
+    "avatarUrl": "https://github.com/shadcn.png"
+  },
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/username",
+      "icon": "github"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/username",
+      "icon": "linkedin"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/username",
+      "icon": "twitter"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://instagram.com/username",
+      "icon": "instagram"
+    },
+    {
+      "title": "Portfolio",
+      "url": "https://portfolio-website.com",
+      "icon": "world"
+    }
+  ]
+}
